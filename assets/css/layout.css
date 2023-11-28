@@ -26,7 +26,6 @@
 .header .logo a img{
     width: 100px;
 }
-.header .gnb{}
 .header .gnb-list{
     display: flex;
     align-items: center;
