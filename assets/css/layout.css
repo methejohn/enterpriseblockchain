@@ -1,6 +1,10 @@
 @import './reset.css';
 @import './common.css';
 
+.wrapper{
+    min-width: 1440px;
+}
+
 .header{
     position: fixed;
     top: 0;
