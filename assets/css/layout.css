@@ -4,7 +4,6 @@
 .wrapper{
     min-width: 1440px;
 }
-
 .header{
     position: fixed;
     top: 0;
@@ -40,7 +39,6 @@
 }
 .header .gnb-item>a{
     padding: 23px 25px;
-
 }
 .header .gnb-item .btn-lang{
     display: flex;
