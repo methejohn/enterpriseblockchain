@@ -161,7 +161,7 @@
     max-width: 50%;
     padding-left: 100px;
 }
-@media (min-width: 1440px) and (max-width: 1690px){
+@media (max-width: 1690px){
     .sc-desc .group-top .desc br{
         display: none;
     }
