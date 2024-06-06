@@ -851,6 +851,7 @@
 }
 .sc-desc.style3 .group-bottom{
     position: relative;
+    overflow: hidden;
 }
 
 .sc-desc.style3 .group-bottom .box2,
