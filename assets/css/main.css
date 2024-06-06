@@ -642,6 +642,7 @@
 
 .sc-dataid .group-sticky2 .service-list{
     display: flex;
+    flex-wrap: wrap;
     gap: 27px;
     margin-top: 80px;
 }
